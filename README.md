@@ -1,5 +1,7 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+This is a prototype for a mechanic for studio 2
 
-DO NOT LEAVE IT LIKE THIS!!!
-
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+take sounds from green cubes and put them in the red cubes
+left click to take sound
+press e on red cube to show input field
+type the sound you want to add
+press e again and it will play the sound
